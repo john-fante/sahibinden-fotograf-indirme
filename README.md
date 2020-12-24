@@ -1,3 +1,3 @@
 # Sahibinden Fotograf İndirme
  
- Sahibinden üzerinden herhangi bir ilandan, kategoriden veya özelleştirilmiş bir aramadaki tüm ilanların görsellerini indirmeye yarar.
+Sahibinden sitesinden herhangi bir ilan kategorisindeki (örneğin bir araba modelinin) tüm ilanlarda bulunan görüntülerin indirilmesini sağlar.
