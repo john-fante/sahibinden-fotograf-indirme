@@ -1,4 +1,4 @@
-# Sahibinden Fotograf İndirme
+# Sahibinden Fotoğraf İndirme
  
 Sahibinden sitesinden herhangi bir ilan kategorisindeki (örneğin bir araba modelinin) tüm ilanlarda bulunan görüntülerin indirilmesini sağlar.
 Yapay zeka çalışmalarında ve çeşitli projelerde fotoğraf indirmek için kullanılabilir.
